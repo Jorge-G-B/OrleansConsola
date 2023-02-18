@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\bin\Debug\net7.0\GrainInterface.deps.json
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\bin\Debug\net7.0\GrainInterface.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\bin\Debug\net7.0\GrainInterface.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\refint\GrainInterface.dll
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\GrainInterface.pdb
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\GitHub\Orleans\OrleansHelloWorld\GrainInterface\obj\Debug\net7.0\ref\GrainInterface.dll
